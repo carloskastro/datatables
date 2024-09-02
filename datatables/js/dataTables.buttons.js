@@ -1789,7 +1789,7 @@ Buttons.defaults = {
 	dom: {
 		container: {
 			tag: 'div',
-			className: 'dt-buttons btn-group pt-2 pb-2'
+			className: 'dt-buttons btn-group py-2'
 		},
 		collection: {
 			tag: 'div',
